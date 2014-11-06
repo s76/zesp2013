@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="32" height="19" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="1240753267052016900" tilewidth="32" tileheight="32">
+  <image source="1240753267052016900.png" width="256" height="1600"/>
+ </tileset>
+ <layer name="l1" width="32" height="19">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA4tkZGCIHMWjeBSP4lE8ikfxKB7FdMMARCcDwIAJAAA=
+  </data>
+ </layer>
+ <layer name="Tile Layer 1" width="32" height="19">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA8VUMQ7DIAzEQ5/TjW5lC2tG+v+ftCiyuLoG22qkDCcTHDjOnGmUUrsIt5RS/sR6EZC/jyPnvtOBPtbQ6DtKVPodR879oAPauj5XRPTya3kNM/1yrx6Lggj/kwZ4DvVvNKDxe+8/wo/6Z/weH6HvsFZn6Pf4aPXvjL+RT7/VU1h//t7JhtRv+c+jv0HdPXVj/S8F+8RTq/5rsH92eIf1a+fz8mfh1chbNOt/rENEf4EaePoG7597Rp4be9vij/YN6pfrZzzW/Wv+lfOafsz9w8/+L2I/rD3nWT++VRXyRexnvf/of89dSP9bb9mq/yXyIncGMg28AdCqsTqACQAA
+  </data>
+ </layer>
+ <objectgroup name="walls" width="32" height="19">
+  <object x="-55" y="-37" width="53" height="676"/>
+  <object x="-64" y="-67" width="1155" height="65"/>
+  <object x="1026" y="-41" width="61" height="680"/>
+  <object x="-47" y="609" width="1091" height="31"/>
+  <object x="36" y="32" width="955" height="30"/>
+  <object x="450" y="33" width="31" height="538"/>
+  <object x="479" y="33" width="33" height="541"/>
+  <object x="499" y="350" width="169" height="36"/>
+  <object x="545" y="94" width="128" height="36"/>
+  <object x="642" y="127" width="31" height="191"/>
+  <object x="708" y="115" width="28" height="270"/>
+  <object x="712" y="223" width="280" height="33"/>
+  <object x="771" y="113" width="30" height="76"/>
+  <object x="773" y="141" width="217" height="49"/>
+  <object x="961" y="45" width="30" height="144"/>
+  <object x="770" y="290" width="223" height="26"/>
+  <object x="769" y="313" width="34" height="260"/>
+  <object x="545" y="434" width="60" height="44"/>
+  <object x="225" y="545" width="350" height="29"/>
+  <object x="385" y="512" width="33" height="59"/>
+  <object x="544" y="433" width="30" height="138"/>
+  <object x="411" y="526" width="141" height="28"/>
+  <object x="33" y="52" width="34" height="169"/>
+  <object x="33" y="260" width="34" height="317"/>
+  <object x="34" y="432" width="61" height="45"/>
+  <object x="97" y="526" width="92" height="47"/>
+  <object x="97" y="337" width="64" height="45"/>
+  <object x="129" y="323" width="31" height="250"/>
+  <object x="132" y="322" width="282" height="31"/>
+  <object x="196" y="387" width="253" height="27"/>
+  <object x="133" y="447" width="281" height="33"/>
+  <object x="192" y="478" width="32" height="32"/>
+  <object x="257" y="513" width="31" height="34"/>
+  <object x="320" y="474" width="33" height="38"/>
+  <object x="97" y="96" width="35" height="190"/>
+  <object x="38" y="258" width="185" height="29"/>
+  <object x="121" y="237" width="102" height="31"/>
+  <object x="122" y="96" width="295" height="32"/>
+  <object x="186" y="111" width="35" height="153"/>
+  <object x="958" y="303" width="33" height="271"/>
+  <object x="641" y="419" width="99" height="29"/>
+  <object x="610" y="513" width="59" height="28"/>
+  <object x="641" y="437" width="31" height="137"/>
+  <object x="650" y="530" width="326" height="45"/>
+ </objectgroup>
+ <objectgroup name="base1" width="32" height="19">
+  <object x="289" y="159" width="95" height="128"/>
+ </objectgroup>
+ <objectgroup name="base2" width="32" height="19">
+  <object x="548" y="162" width="94" height="123"/>
+ </objectgroup>
+ <objectgroup name="generators" width="32" height="19">
+  <object x="139" y="164" width="29" height="30"/>
+  <object x="864" y="379" width="36" height="38"/>
+ </objectgroup>
+ <objectgroup name="items" width="32" height="19"/>
+</map>

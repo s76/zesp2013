@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="32" height="19" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="1240753267052016900" tilewidth="32" tileheight="32">
+  <image source="1240753267052016900.png" width="256" height="1600"/>
+ </tileset>
+ <layer name="l1" width="32" height="19">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NkYGBgHMWjeBSPYirjQEZMPGr/qP2j9o/aP4ohGAAQ5gUCgAkAAA==
+  </data>
+ </layer>
+ <layer name="Tile Layer 1" width="32" height="19">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3DQQ0AAAwDofMvoWrnYi9IWDVVVd8ebjLSmIAJAAA=
+  </data>
+ </layer>
+ <objectgroup name="walls" width="32" height="19">
+  <object x="208" y="3" width="679" height="57"/>
+  <object x="-55" y="-37" width="53" height="676"/>
+  <object x="-64" y="-67" width="1155" height="65"/>
+  <object x="1023" y="-39" width="61" height="680"/>
+  <object x="-47" y="609" width="1091" height="31"/>
+  <object x="316" y="254" width="61" height="354"/>
+  <object x="50" y="58" width="94" height="421"/>
+  <object x="611" y="132" width="148" height="258"/>
+  <object x="862" y="129" width="104" height="262"/>
+  <object x="453" y="31" width="73" height="101"/>
+  <object x="211" y="301" width="230" height="102"/>
+  <object x="686" y="289" width="117" height="63"/>
+  <object x="529" y="457" width="153" height="106"/>
+  <object x="936" y="521" width="79" height="46"/>
+  <object x="796" y="450" width="50" height="49"/>
+  <object x="231" y="100" width="78" height="58"/>
+  <object x="367" y="161" width="48" height="44"/>
+  <object x="148" y="518" width="96" height="107"/>
+  <object x="653" y="33" width="61" height="58"/>
+  <object x="518" y="326" width="24" height="77"/>
+ </objectgroup>
+ <objectgroup name="base1" width="32" height="19">
+  <object x="0" y="480" width="95" height="126"/>
+ </objectgroup>
+ <objectgroup name="base2" width="32" height="19">
+  <object x="930" y="-2" width="89" height="128"/>
+ </objectgroup>
+ <objectgroup name="items" width="32" height="19"/>
+ <objectgroup name="generators" width="32" height="19">
+  <object x="103" y="158" width="26" height="30"/>
+  <object x="463" y="223" width="38" height="39"/>
+ </objectgroup>
+</map>

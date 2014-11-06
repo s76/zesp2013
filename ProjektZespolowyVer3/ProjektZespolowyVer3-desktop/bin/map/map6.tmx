@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="32" height="19" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="1240753267052016900" tilewidth="32" tileheight="32">
+  <image source="1240753267052016900.png" width="256" height="1600"/>
+ </tileset>
+ <layer name="l1" width="32" height="19">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NkYGBgHMWjeBSPYirjQEZMPGr/qP2j9o/aP4ohGAAQ5gUCgAkAAA==
+  </data>
+ </layer>
+ <layer name="Tile Layer 1" width="32" height="19">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA9XTsQqDMBDG8c+HEjo4OFTo6uTm2sfq1nZqO/SpNJNunZpAhCMeUfGS4PCbDvJPDlJnQB3ZmYjdluh3AH5WD/l+RVwxp0hTMXPXDdv7ufUC7619tLv20J4e7cYdVeQOS+2QfaPBnNn511LM3FXu6HNzty/9P6T6J0bMfsmQ6A+kP3r6F4ZE35j6vnNS90Pt/yjvX9sviBT7d/trhHx/bCn7f6WzbVSACQAA
+  </data>
+ </layer>
+ <objectgroup name="walls" width="32" height="19">
+  <object x="221" y="130" width="580" height="60"/>
+  <object x="-55" y="-37" width="53" height="676"/>
+  <object x="-64" y="-67" width="1155" height="65"/>
+  <object x="1023" y="-39" width="61" height="680"/>
+  <object x="-47" y="609" width="1091" height="31"/>
+  <object x="450" y="189" width="61" height="354"/>
+  <object x="161" y="92" width="94" height="421"/>
+  <object x="737" y="274" width="159" height="271"/>
+  <object x="421" y="73" width="104" height="262"/>
+ </objectgroup>
+ <objectgroup name="base1" width="32" height="19">
+  <object x="33" y="480" width="95" height="126"/>
+ </objectgroup>
+ <objectgroup name="base2" width="32" height="19">
+  <object x="930" y="-2" width="89" height="128"/>
+ </objectgroup>
+ <objectgroup name="items" width="32" height="19"/>
+ <objectgroup name="generators" width="32" height="19">
+  <object x="188" y="158" width="26" height="30"/>
+  <object x="194" y="239" width="38" height="39"/>
+ </objectgroup>
+</map>
